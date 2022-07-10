@@ -1,0 +1,24 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "Tool to generate background gradients",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyGKruger/background-generator.git"
+  },
+  "keywords": [
+    "gradient",
+    "css",
+    "js"
+  ],
+  "author": "Anthony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyGKruger/background-generator/issues"
+  },
+  "homepage": "https://github.com/AnthonyGKruger/background-generator#readme"
+}
